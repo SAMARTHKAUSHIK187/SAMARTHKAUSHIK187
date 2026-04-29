@@ -14,6 +14,15 @@ I am a Computer Science student at IIITDM Kurnool with a focus on building effic
 
 ---
 
+### 🏆 Competitive Programming
+I actively participate in programming contests and consistently solve algorithmic problems to sharpen my problem-solving skills. My primary weapons of choice are **C++** and **Python**.
+
+* **Platforms:** Frequently competing and problem-solving on **[Codeforces](https://codeforces.com/profile/Samarth_Kaushik)**, **[LeetCode](https://leetcode.com/u/kaushik_samarth)**, and **[CodeChef](https://www.codechef.com/users/coder_kaushik)**.
+* **Key Areas:** Strong focus on algorithmic optimization, with heavy practice in binary search, sorting algorithms, and bitwise operations.
+* **Track My Progress:** You can view my combined contest stats and DSA problem-solving history across all platforms here: **[Codolio](https://codolio.com/profile/samarth_kaushik)**
+
+---
+
 ### 🛠️ Technical Toolbox
 
 | Category | Tools & Languages |
@@ -32,15 +41,14 @@ I am a Computer Science student at IIITDM Kurnool with a focus on building effic
 ---
 
 ### 📁 Featured Projects
-* **E.G.G.** - A tool using which one can convert boolean expressions to logic gates and can instatly get the turth table corresonnding to the expression.
-* **Fire-Bot** - Hardare driven bot which can detect fire in households and extinguish it with smart integration of IoT to send notification
-*Have been solving DSA questions and giving programminkg contests across the platforms : [**Codolio**](https://codolio.com/profile/samarth_kaushik)
+* **E.G.G.** - A tool using which one can convert boolean expressions to logic gates and can instantly get the truth table corresponding to the expression.
+* **Fire-Bot** - Hardware driven bot which can detect fire in households and extinguish it with smart integration of IoT to send notifications.
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [https://www.linkedin.com/in/samarth-kaushik-12b946381?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-* **Email:** [samarthkaushik187@gmail.com]
+* **LinkedIn:** [Samarth Kaushik](https://www.linkedin.com/in/samarth-kaushik-12b946381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **Email:** [samarth_kaushik@zohomail.in](mailto:samarth_kaushik@zohomail.in)
 
 > "The goal isn't to live forever, the goal is to create something that does."
 
