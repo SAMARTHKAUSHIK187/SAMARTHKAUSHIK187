@@ -34,7 +34,8 @@ I am a Computer Science student at IIITDM Kurnool with a focus on building effic
 ### 📁 Featured Projects
 * **E.G.G.** - A tool using which one can convert boolean expressions to logic gates and can instatly get the turth table corresonnding to the expression.
 * **Fire-Bot** - Hardare driven bot which can detect fire in households and extinguish it with smart integration of IoT to send notification
-[**Codolio**](https://codolio.com/profile/samarth_kaushik)
+*Have been solving DSA questions and giving programminkg contests across the platforms : [**Codolio**](https://codolio.com/profile/samarth_kaushik)
+
 ---
 
 ### 📫 Connect with Me
