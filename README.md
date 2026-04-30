@@ -28,7 +28,7 @@ I actively participate in programming contests and consistently solve algorithmi
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | `C++`, `Python`, `Verilog` |
-| **Platforms** | Codeforces, LeetCode, AtCoder |
+| **Platforms** | Codeforces, LeetCode, AtCoder, CodeChef |
 | **Hardware** | Digital Logic Design, Circuit Modeling |
 | **Specialties** | Algorithm Optimization, Mathematical Modeling |
 
