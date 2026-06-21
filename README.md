@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samarth%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20IIITDM%20Kurnool&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samarth%20Kaushik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20IIITDM%20Kurnool&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=⚡+Competitive+Programmer;🧠+DSA+%26+Algorithm+Enthusiast;🔧+Systems+%26+Digital+Logic+Builder;📈+Quant+Finance+Explorer;🤖+IoT+%26+Embedded+Systems+Tinkerer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=⚡+Competitive+Programmer;🧠+DSA+%26+Algorithm+Enthusiast;🔧+Digital+Logic+%26+Systems+Builder;📈+Quantitative+Finance+Explorer;🤖+IoT+%26+Embedded+Systems+Tinkerer)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,9 +26,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38"> &nbsp; About Me
+## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
 
 ```yaml
 Name     : Samarth Kaushik
@@ -54,20 +54,14 @@ Off-Screen:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp; Featured Projects
-
-<div align="center">
-
-### ▸ Click to Expand Each Project ◂
-
-</div>
+## 📁 Featured Projects
 
 <details>
-<summary><h3>🗜️ &nbsp; Huffman File Compressor &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></h3></summary>
+<summary><b>🗜️ Huffman File Compressor &nbsp; &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></b></summary>
 
 <br>
 
-> **Lossless file compression & decompression using the Huffman Coding algorithm — built entirely in C++**
+> Lossless file compression & decompression using the Huffman Coding algorithm — built entirely in C++
 
 ```
 📦 Huffman-File-Compressor
@@ -87,14 +81,14 @@ Off-Screen:
 
 </details>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;margin:10px 0;">
 
 <details>
-<summary><h3>🥚 &nbsp; Project E.G.G. — Expression to Gate Generator &nbsp; <img src="https://img.shields.io/badge/Digital%20Logic-158223?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></h3></summary>
+<summary><b>🥚 Project E.G.G. — Expression to Gate Generator &nbsp; &nbsp; <img src="https://img.shields.io/badge/Digital%20Logic-158223?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></b></summary>
 
 <br>
 
-> **Bridges the gap between Boolean algebra and hardware — converts expressions directly to logic gate schemas**
+> Bridges the gap between Boolean algebra and hardware — converts expressions directly to logic gate schemas
 
 ```
 🔌 Project E.G.G.
@@ -114,14 +108,14 @@ Off-Screen:
 
 </details>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;margin:10px 0;">
 
 <details>
-<summary><h3>🤖 &nbsp; Fire-Bot — Autonomous IoT Fire Extinguisher &nbsp; <img src="https://img.shields.io/badge/IoT-FF9800?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></h3></summary>
+<summary><b>🤖 Fire-Bot — Autonomous IoT Fire Extinguisher &nbsp; &nbsp; <img src="https://img.shields.io/badge/IoT-FF9800?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/></b></summary>
 
 <br>
 
-> **Autonomous hardware robot that detects, navigates to, and extinguishes fires — with real-time IoT alerts**
+> Autonomous hardware robot that detects, navigates to, and extinguishes fires — with real-time IoT alerts
 
 ```
 🤖 Fire-Bot
@@ -145,7 +139,7 @@ Off-Screen:
 
 ---
 
-## 🏆 &nbsp; Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="center">
 
@@ -172,34 +166,32 @@ Off-Screen:
 
 <br>
 
-<div align="center">
-
 ```
 🔑 Key Focus Areas
-┌─────────────────────────────────────────────────────┐
-│  🔍 Binary Search     │  🔢 Bitwise Operations       │
-│  🗂️  Sorting Algos    │  📐 Mathematical Modelling   │
-│  ⏱️  Time Complexity  │  🌲 Trees & Graphs           │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  🔍 Binary Search      │  🔢 Bitwise Operations       │
+│  🗂️  Sorting Algos     │  📐 Mathematical Modelling   │
+│  ⏱️  Time Complexity   │  🌲 Trees & Graphs           │
+└──────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🛠️ &nbsp; Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### ⚔️ Languages
+**Languages**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/Verilog-%23158223.svg?style=for-the-badge&logoColor=white)
 
-### 🧠 Core Skills
+<br>
+
+**Core Skills**
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge)
@@ -208,7 +200,9 @@ Off-Screen:
 ![Binary Search](https://img.shields.io/badge/Binary%20Search-FF9800?style=for-the-badge)
 ![Graph Theory](https://img.shields.io/badge/Graph%20Theory-9C27B0?style=for-the-badge)
 
-### 🌐 Domains
+<br>
+
+**Domains**
 
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-E91E63?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Digital Systems](https://img.shields.io/badge/Digital%20Systems-607D8B?style=for-the-badge)
@@ -216,7 +210,9 @@ Off-Screen:
 ![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-009688?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-795548?style=for-the-badge)
 
-### 🔧 Tools & Environments
+<br>
+
+**Tools & Environments**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -229,16 +225,16 @@ Off-Screen:
 
 ---
 
-## 📊 &nbsp; GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SAMARTHKAUSHIK187&show_icons=true&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHKAUSHIK187&layout=compact&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTHKAUSHIK187&theme=tokyonight&hide_border=false&border_radius=15&border=58A6FF&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" width="60%" />
 </p>
 
@@ -246,27 +242,27 @@ Off-Screen:
 
 ---
 
-## 📈 &nbsp; Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAMARTHKAUSHIK187&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D866&area=true&hide_border=false&border_radius=15&theme=react-dark)](https://github.com/SAMARTHKAUSHIK187)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAMARTHKAUSHIK187&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D866&area=true&hide_border=false&border_radius=15&theme=react-dark)](https://github.com/SAMARTHKAUSHIK187)
 
 </div>
 
 ---
 
-## 🏅 &nbsp; GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAMARTHKAUSHIK187&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SAMARTHKAUSHIK187&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🐍 &nbsp; Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -280,7 +276,7 @@ Off-Screen:
 
 ---
 
-## 📫 &nbsp; Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -311,7 +307,6 @@ Off-Screen:
 </div>
 
 <br>
-
 
 <div align="center">
 
