@@ -72,15 +72,29 @@ I actively participate in programming contests and consistently solve algorithmi
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMARTHKAUSHIK187&show_icons=true&theme=radical" alt="Samarth's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTHKAUSHIK187&theme=radical" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHKAUSHIK187&layout=compact&theme=radical" alt="Top Langs" />
+## 📊 GitHub Stats & Activity
+
+<!-- General GitHub Stats & Top Languages with Borders -->
+<p align="center">
+  <a href="https://github.com/SAMARTHKAUSHIK187">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAMARTHKAUSHIK187&show_icons=true&hide_border=false&border_radius=10&theme=radical&border_color=e4e2e2" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/SAMARTHKAUSHIK187">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHKAUSHIK187&layout=compact&hide_border=false&border_radius=10&theme=radical&border_color=e4e2e2" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+## 📈 Contribution Graph
+
+<!-- Dynamic Contribution Graph with Borders -->
+<p align="center">
+  <a href="https://github.com/SAMARTHKAUSHIK187">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMARTHKAUSHIK187&bg_color=141321&color=f34f29&line=f34f29&point=f34f29&area=true&hide_border=false&border_radius=10&theme=react-dark" alt="Contribution Graph" width="100%" />
+  </a>
+</p>
+
 </div>
 
 <br>
