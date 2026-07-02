@@ -228,16 +228,14 @@ Off-Screen:
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Samarth-Kaushik&show_icons=true&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&v=1" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Kaushik&layout=compact&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&v=1" alt="Top Languages" width="48%" />
+  </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarth-Kaushik&show_icons=true&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Kaushik&layout=compact&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-Kaushik&theme=tokyonight&hide_border=false&border_radius=15&border=58A6FF&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" width="60%" />
-</p>
-
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=Samarth-Kaushik&theme=tokyonight&hide_border=false&border_radius=15&border=58A6FF&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&v=1" alt="GitHub Streak" width="60%" />
+  </p>
 </div>
 
 ---
