@@ -12,9 +12,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SAMARTHKAUSHIK187&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Samarth-Kaushik&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/SAMARTHKAUSHIK187?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Samarth-Kaushik?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" alt="Open to Work" />
 
@@ -230,12 +230,12 @@ Off-Screen:
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMARTHKAUSHIK187&show_icons=true&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHKAUSHIK187&layout=compact&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samarth-Kaushik&show_icons=true&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Kaushik&layout=compact&hide_border=false&border_radius=15&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMARTHKAUSHIK187&theme=tokyonight&hide_border=false&border_radius=15&border=58A6FF&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-Kaushik&theme=tokyonight&hide_border=false&border_radius=15&border=58A6FF&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" width="60%" />
 </p>
 
 </div>
@@ -246,7 +246,7 @@ Off-Screen:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAMARTHKAUSHIK187&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D866&area=true&hide_border=false&border_radius=15&theme=react-dark)](https://github.com/SAMARTHKAUSHIK187)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-Kaushik&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D866&area=true&hide_border=false&border_radius=15&theme=react-dark)](https://github.com/Samarth-Kaushik)
 
 </div>
 
@@ -256,7 +256,7 @@ Off-Screen:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SAMARTHKAUSHIK187&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Samarth-Kaushik&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -266,9 +266,9 @@ Off-Screen:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHKAUSHIK187/SAMARTHKAUSHIK187/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMARTHKAUSHIK187/SAMARTHKAUSHIK187/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAMARTHKAUSHIK187/SAMARTHKAUSHIK187/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samarth-Kaushik/Samarth-Kaushik/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samarth-Kaushik/Samarth-Kaushik/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Samarth-Kaushik/Samarth-Kaushik/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
